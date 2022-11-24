@@ -10,9 +10,20 @@ header {
     background-color: darkmagenta;
     color: white;
     min-height: 30vh;
+    text-align: center;
 }
 
 h2 {
     color: red;
     font-size: 50px;
 }
+
+h2:hover {
+    color: blue;
+    /* transform: rotate(left, 360deg); */
+}
+
+main {
+    text-align: center;
+}
+

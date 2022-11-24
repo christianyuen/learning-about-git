@@ -20,7 +20,7 @@ h2 {
 
 h2:hover {
     color: blue;
-    /* transform: rotate(left, 360deg); */
+    rotate: 360deg 1s;
 }
 
 main {
